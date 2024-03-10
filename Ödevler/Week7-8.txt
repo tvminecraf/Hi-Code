@@ -1,0 +1,2 @@
+Cohorts dosyayı yüklememe izin vermediği için böyle yaptım
+https://github.com/tvminecraf/Hi-Code/tree/main/%C3%96devler
